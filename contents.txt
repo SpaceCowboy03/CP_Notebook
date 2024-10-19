@@ -1,0 +1,49 @@
+# Any line followed by a '#' character is ignored
+# Section headings must be in square brackets
+# Subsections within a section should follow the format:
+#   [filename within code directory][tab character \t][subsection title]
+
+[Data Structures]
+DataStructures\DSU.cpp  DSU
+
+[Graphs]
+Graphs\SCC.cpp Strongest Connected components
+Graphs\TopSort.cpp Topological sort
+Graphs\Floyd-Warshall.cpp  Floyd-Warshall
+Graphs\Dijkstra.cpp    Dijkstra
+Graphs\SPFA.cpp    Shortest Path Fast algorithm
+
+[Dynamic Programming]
+DP\CoinExchange.cpp    Coin Exchange Problem
+
+[Flows]
+Flows\Dinic.cpp   Dinic
+Flows\MinCostlow.cpp  MinCost Flow
+
+[Math]
+Math\primes.cpp  Primes
+Math\log.cpp Log Utils
+Math\line.cpp    Line Representation
+Math\cribe.cpp Cribe
+Math\fastexponentiation.cpp  Fast Exp.
+Math\Euclidean.cpp   Euclidean algorithm
+Math\Gauss.cpp   GaussJordan
+Math\ChineseRemainder.cpp    Chinese Remainder Theorem
+
+[Range Queries]
+RangeQueries\BIT.cpp BIT
+RangeQueries\SegmentTree\QueryInRange.cpp    Segment Tree Range Query
+RangeQueries\SegmentTree\UpdateInRange.cpp   Segment Tree Range Update
+RangeQueries\SegmentTree\LazySEGTREE.cpp Segment Tree Lazy Propagation
+
+[Strings]
+Strings\Borders.cpp Borders
+Strings\Hashing.cpp Hashing
+Strings\Manacher.cpp    Manacher
+Strings\Z-algorithm.cpp Z-Algorithm
+
+[Trees]
+Trees\LCA.cpp LCA
+
+[Utils]
+Utils\stringstream.cpp    Lectura de Stream
