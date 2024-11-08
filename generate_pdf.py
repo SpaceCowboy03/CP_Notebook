@@ -70,5 +70,7 @@ if __name__ == "__main__":
     tex = get_tex(sections)
     with open('contents.tex', 'w') as f:
         f.write(tex)
-    latexmk_options = ["latexmk", "-pdf", "notebook.tex"]
-    subprocess.call(latexmk_options)
+    pdflatex_options = ["pdflatex", "notebook.tex"]
+    subprocess.call(pdflatex_options)
+    # latexmk_options = ["latexmk", "-pdf", "notebook.tex"]
+    # subprocess.call(latexmk_options)
