@@ -1,4 +1,4 @@
-const int N = 500'005; //Number of nodes 
+const int N = 500005; //Number of nodes 
 const int ALPHA = 26; // Number of characters
 
 int trie[N][ALPHA];

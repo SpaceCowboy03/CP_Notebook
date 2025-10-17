@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import subprocess
 code_dir = "code"
-title = "hola mUNdo Team Notebook"
+title = "Demostracion por AC Team Notebook"
 
 
 def get_sections():
