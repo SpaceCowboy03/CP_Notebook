@@ -25,10 +25,13 @@ Flows/MinCostlow.cpp  MinCost Flow
 [Math]
 Math/primes.txt  Primes
 Math/log.txt Log Utils
+Math/ModularOp.cpp  Modular Operations
 Math/line.cpp    Line Representation
+Math/LineIntersect.cpp  Lines Intersection
 Math/cribe.cpp Cribe
 Math/cribeFast.cpp FastCribe
 Math/fastexponentiation.cpp  Fast Exp.
+Math/MatrixPower.cpp  Matrix Power
 Math/fastMatrixExponentiation.cpp  Fast Matrix Exp.
 Math/Euclidean.cpp   Euclidean algorithm
 Math/Gauss.cpp   GaussJordan
@@ -39,6 +42,7 @@ Geometry/poligon.cpp    Poligon
 
 [Range Queries]
 RangeQueries/BIT.cpp BIT
+RangeQueries/SegmentTree/SegTree.cpp  Basic Segment Tree
 RangeQueries/SegmentTree/QueryInRange.cpp    Segment Tree Range Query
 RangeQueries/SegmentTree/UpdateInRange.cpp   Segment Tree Range Update
 RangeQueries/SegmentTree/LazySEGTREE.cpp Segment Tree Lazy Propagation
@@ -49,6 +53,9 @@ Strings/Borders.cpp Borders
 Strings/Hashing.cpp Hashing
 Strings/Manacher.cpp    Manacher
 Strings/Z-algorithm.cpp Z-Algorithm
+Strings/PrefixFun.cpp  Prefix Function (KMP)
+Strings/Trie.cpp  Trie
+Strings/AhoCorasick.cpp    Aho Corasick
 Strings/string_matching.cpp Strings Matching
 Strings/sa_lcp.cpp Suffix Array + LCP
 
