@@ -37,12 +37,16 @@ Math/Euclidean.cpp   Euclidean algorithm
 Math/Gauss.cpp   GaussJordan
 Math/ChineseRemainder.cpp    Chinese Remainder Theorem
 
+[Geometry]
+Geometry/poligon.cpp    Poligon
+
 [Range Queries]
 RangeQueries/BIT.cpp BIT
 RangeQueries/SegmentTree/SegTree.cpp  Basic Segment Tree
 RangeQueries/SegmentTree/QueryInRange.cpp    Segment Tree Range Query
 RangeQueries/SegmentTree/UpdateInRange.cpp   Segment Tree Range Update
 RangeQueries/SegmentTree/LazySEGTREE.cpp Segment Tree Lazy Propagation
+RangeQueries/SparseTable.cpp Sparse Table
 
 [Strings]
 Strings/Borders.cpp Borders
@@ -52,6 +56,8 @@ Strings/Z-algorithm.cpp Z-Algorithm
 Strings/PrefixFun.cpp  Prefix Function (KMP)
 Strings/Trie.cpp  Trie
 Strings/AhoCorasick.cpp    Aho Corasick
+Strings/string_matching.cpp Strings Matching
+Strings/sa_lcp.cpp Suffix Array + LCP
 
 [Trees]
 Trees/LCA.cpp LCA
