@@ -1,4 +1,4 @@
-const int N = 500005;
+const int N = 500'005;
 const int MOD = 998244353;
 
 int add ( int A, int B ) { return A+B<MOD? A+B: A+B-MOD; }
